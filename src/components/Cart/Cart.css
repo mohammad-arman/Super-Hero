@@ -1,0 +1,13 @@
+.cart{
+    background-color: #17a2b8;
+    color: #fff;
+    border-radius: 5px;
+}
+.total-doctor{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.6em;
+}
+.price{
+    font-family: "Roboto", sans-serif;
+    font-size: 1.5em;
+}

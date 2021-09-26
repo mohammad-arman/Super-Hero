@@ -1,0 +1,24 @@
+/* logo styles */
+.logo{
+    color: #fff;
+    font-weight: 700;
+    font-size: 1.5em;
+    font-style: italic;
+    transition: all .5s;
+}
+.logo:hover{
+    color: #56cfe1;
+}
+.logo span{
+    color: #56cfe1;
+}
+
+/* nav link styles */
+.custom-link{
+    color: #fff;
+    font-size: 1.2em;
+    transition: all .5s;
+}
+.custom-link:hover{
+    color: #56cfe1;
+}

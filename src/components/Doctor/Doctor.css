@@ -1,0 +1,36 @@
+/* single doctor styles */
+.doctor-cart{
+    border-radius: 5px;
+    box-shadow: 0 1px 6px 0 rgb(32 33 36 / 28%);
+ 
+}
+.doctor-cart:hover .name{
+    color: #138496;  
+}
+.doctor-thumb img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.name{
+    font-family: 'Robot', sans-serif;
+    font-size: 1.3em;
+    transition: ease-in-out .5s;
+}
+.age{
+    font-family: "Roboto", sans-serif;
+    font-size: 1.5em;
+}
+.add-btn{
+    color: #fff;
+    background-color: #17a2b8;
+    border: 1px solid #17a2b8;
+    padding: 5px 20px;
+    letter-spacing: 1px;
+    transition: all .5s;
+}
+.add-btn:hover{
+    background-color: #138496;
+}
+
+

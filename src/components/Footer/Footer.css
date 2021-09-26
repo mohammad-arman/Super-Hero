@@ -1,0 +1,12 @@
+.bg-footer{
+    background-color: #F6F6F8;
+}
+.copyright{
+    font-size: 1.2em;
+}
+.author{
+    font-family: "Robot", sans-serif;
+}
+.author span{
+    color:  #17a2b8;
+}
